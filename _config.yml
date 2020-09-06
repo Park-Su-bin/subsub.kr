@@ -6,7 +6,7 @@ author:             "숲숲"
 baseurl:            "/"
 url:                "https://subsub.kr"
 locale:             "ko_KR"
-thumbnail:          "/img/blog_thumbnail.jpg"
+thumbnail:          "/img/blog_thumbnail_v2.jpg"
 
 # Social Profiles
 twitter_username:   sb10044
