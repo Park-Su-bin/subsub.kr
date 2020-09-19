@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://subsub.kr/sitemap.xml
+
+DaumWebMasterTool:b0f0111da77eaa93deb1d3a693efca8aa709358b7a996db2b5ef6cf2fa3209f6:SkzY+iibjkK3lYUDIfzDEw==
