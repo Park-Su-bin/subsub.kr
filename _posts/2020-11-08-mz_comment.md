@@ -3,8 +3,8 @@ layout: post
 permalink: /mz_comment/
 title: '우리가 누구? 드립의 민족! MZ세대의 댓글 유형'
 date: 2020-11-08 11:30:00 +09:00
-feature: '/img/posts/05/post_04_thumbnail.jpg'
-background: '/img/posts/05/post_04_bg.jpg'
+feature: '/img/posts/05/post_04_thumbnail.png'
+background: '/img/posts/05/post_04_bg.png'
 categories:
   - trend
 tags:

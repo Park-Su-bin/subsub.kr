@@ -3,7 +3,7 @@ layout: post
 permalink: /good_company/
 title: 'MZ세대를 위한 좋은 회사를 고르는 기준'
 date: 2020-09-27 23:52:00 +09:00
-feature: '/img/posts/03/post_02_thumbnail.jpg'
+feature: '/img/posts/03/post_02_thumbnail.png'
 background: '/img/posts/03/post_02_bg.jpg'
 categories:
   - think
