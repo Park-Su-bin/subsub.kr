@@ -3,7 +3,7 @@ layout: post
 permalink: /web_fiction/
 title: 'MZ세대가 웹소설에 200% 진심인 이유'
 date: 2020-10-11 11:30:00 +09:00
-feature: '/img/posts/04/post_03_thumbnail.jpg'
+feature: '/img/posts/04/post_03_thumbnail_v2.jpg'
 background: '/img/posts/04/post_03_bg.jpg'
 categories:
   - trend
