@@ -3,8 +3,8 @@ layout: post
 permalink: /instagram_atoz/
 title: '인싸 헤쳐 모여! MZ세대의 인스타그램 꾸미는 법'
 date: 2020-11-22 11:30:00 +09:00
-feature: '/img/posts/06/post_05_thumbnail.png'
-background: '/img/posts/06/post_05_bg.png'
+feature: '/img/posts/06/post_05_thumbnail.jpg'
+background: '/img/posts/06/post_05_bg.jpg'
 categories:
   -how
 tags:
@@ -189,7 +189,7 @@ description: '프로필부터 스토리까지 똑같은 재질로 꾸며야 제 
 <br>
 지금까지 MZ세대의 인스타그램 꾸미는 법을 살펴보았는데요. 작은 부분부터 디테일하게 만들어가야 차곡차곡 쌓였을 때 그동안 들였던 정성이 빛을 발하는 것 같습니다. <br>
 
-인스타그램 뿐만 아니라 필기, 다꾸, 폰꾸, 인꾸 (인스타그램 꾸미기)까지! 다양한 분야에 다재다능인 우리, 앞으로도 지금처럼 잘 꾸며보아요 S2 <br>
+필기, 다꾸, 폰꾸 뿐만 아니라 인꾸 (인스타그램 꾸미기)까지! 다양한 분야에 다재다능인 우리, 앞으로도 지금처럼 잘 꾸며보아요 S2 <br>
 
 여러분은 여러분의 인스타그램을 어떻게 꾸미셨나요? 댓글로 알려주세요! <br>
 지금까지 긴 글 읽어주셔서 감사합니다. 그럼 다음 글에서 또 만나요 👋 <br><br>
