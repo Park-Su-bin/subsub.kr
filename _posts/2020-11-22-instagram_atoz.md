@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /instagram_atoz/
-title: '인싸 헤처 모여! MZ세대의 인스타그램 꾸미는 법'
+title: '인싸 헤쳐 모여! MZ세대의 인스타그램 꾸미는 법'
 date: 2020-11-22 11:30:00 +09:00
 feature: '/img/posts/06/post_05_thumbnail.png'
 background: '/img/posts/06/post_05_bg.png'
