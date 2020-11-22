@@ -116,7 +116,7 @@ description: '프로필부터 스토리까지 똑같은 재질로 꾸며야 제 
 
 <br>
 {% include youtube.html id="Si3LqW3UjfY" %}
-> 출처: 유튜브 'THE EDIT'
+> 출처: 유튜브 '드로우앤드류'
 
 
 <br>
