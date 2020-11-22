@@ -6,7 +6,7 @@ date: 2020-11-22 11:30:00 +09:00
 feature: '/img/posts/06/post_05_thumbnail.jpg'
 background: '/img/posts/06/post_05_bg.jpg'
 categories:
-  -how
+  - how
 tags:
   - MZ세대
   - 인싸
