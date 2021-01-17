@@ -24,14 +24,6 @@ layout: default
     </div>
   </header>
 
-  <script>
-   dataLayer.push({
-   'event': 'Post View',
-   'Post Title': '{{page.title}}',
-   'Page Category' : 'post',
-   });
-  </script>
-
   <article id="post-content">
     <div class="container">
       <div class="row">
@@ -58,5 +50,13 @@ layout: default
       </div>
     </div>
   </article>
+
+  <script>
+   dataLayer.push({
+   'event': 'Post View',
+   'Post Title': '{{ page.title }}',
+   'Page Category': 'post',
+   });
+  </script>
 
 {% include disqus.html %}
