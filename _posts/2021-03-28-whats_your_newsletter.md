@@ -2,11 +2,11 @@
 layout: post
 permalink: /whats_your_newsletter/
 title: '매일, 메일로 구독하는 트렌드! MZ세대 뉴스레터 추천'
-date: 2021-03-28 20:30:00 +09:00
+date: 2021-03-28 23:30:00 +09:00
 feature: '/img/posts/08/post_07_thumbnail.jpg'
 background: '/img/posts/08/post_07_bg.jpg'
 categories:
-  - trend
+  - how
 tags:
   - MZ세대
   - 뉴스레터
@@ -29,7 +29,7 @@ tags:
   - email
   - newsletter
   - subscribe
-description: 'What's your newsletter? 뉴스레터 구취, 멈춰!'
+description: 'What's your newsletter? 💌 뉴스레터 구취, 멈춰!'
 ---
 
 여러분은 트렌드를 어떤 경로로 확인하시나요? 인스타그램, 유튜브 채널, 카톡방 등 다양한 경로를 통해 트렌드와 요즘 이슈를 확인하실 텐데요!
