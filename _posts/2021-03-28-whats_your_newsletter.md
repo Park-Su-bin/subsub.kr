@@ -24,7 +24,7 @@ tags:
   - email
   - newsletter
   - subscribe
-description: 'What's your newsletter? 💌 뉴스레터 구취, 멈춰!'
+description: '왓츠 유얼 뉴스레터? 💌 뉴스레터 구취, 멈춰!'
 ---
 
 여러분은 어떤 경로로 트렌드를 확인 하시나요? 인스타그램, 유튜브 채널, 카톡방 등 다양한 경로를 통해 트렌드와 요즘 이슈를 확인하실 텐데요!
