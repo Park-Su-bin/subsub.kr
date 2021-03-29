@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /whats_your_newsletter/
-title: '매일, 메일로 트렌드 구독! MZ세대 뉴스레터 추천'
+title: '매일, 메일로 구독하는 트렌드! MZ세대 뉴스레터 추천'
 date: 2021-03-28 23:30:00 +09:00
 feature: '/img/posts/08/post_07_thumbnail.jpg'
 background: '/img/posts/08/post_07_bg.jpg'
