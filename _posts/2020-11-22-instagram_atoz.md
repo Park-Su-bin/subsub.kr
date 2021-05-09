@@ -1,10 +1,10 @@
 ---
 layout: post
 permalink: /instagram_atoz/
-title: '인싸 헤쳐 모여! MZ세대의 인스타그램 꾸미는 법'
+title: '인싸 헤쳐 모여! MZ세대의 인스타그램 꾸미기'
 date: 2020-11-22 11:30:00 +09:00
-feature: '/img/posts/06/post_05_thumbnail.jpg'
-background: '/img/posts/06/post_05_bg.jpg'
+feature: '/img/posts/06/post_05_thumbnail_v2.jpg'
+background: '/img/posts/06/post_05_bg_v2.jpg'
 categories:
   - how
 tags:
@@ -28,7 +28,7 @@ tags:
 description: '프로필부터 스토리까지 똑같은 재질로 꾸며야 제 맛★'
 ---
 
-어렸을 때부터 유난히 금손이었던 MZ들. 내 취향대로 마음껏 꾸밀 수 있는 SNS, 특히 인스타그램에서 더욱 빛을 발하고 있습니다! 하나의 계정도 모자라서 푸드 계정, 그림 계정, 덕질 계정, 일기 계정 등 서브 계정까지 운영하며 나의 취향을 알리고 소비하기 위해 인스타그램을 이용하고 있는데요. <br>
+어렸을 때부터 유난히 금손이었던 MZ세대들. 이 능력은 내 취향대로 마음껏 꾸밀 수 있는 SNS, 특히 인스타그램에서 더욱 빛을 발하고 있는데요! 하나의 계정도 모자라서 푸드 계정, 그림 계정, 덕질 계정, 일기 계정 등 서브 계정까지 운영하며 나의 취향을 알리고 소비하기 위해 인스타그램을 이용하고 있습니다. <br>
 
 프로필부터 게시물, 스토리까지! 누구보다 HIP한 바이브를 추구하는 **MZ세대의 인스타그램 꾸미는 법**, 차근차근 살펴볼까요? <br><br>
 
@@ -178,11 +178,11 @@ description: '프로필부터 스토리까지 똑같은 재질로 꾸며야 제 
 
 ![이미지](/img/posts/06/11.png)
 
-바로, 'Download for Instagram'이라는 크롬 확장 프로그램인데요. 크롬 브라우저에서 해당 프로그램을 추가하고 인스타그램을 켜면 PC에서 APP처럼 모바일 UI로 인스타그램을 볼 수도 있고, 게시물과 스토리 업로드는 물론 (단, 태그나 필터 등 일부 기능 사용 불가) 게시물 다운로드까지 가능하답니다. <br>
+바로, 'Instagram Downloader'이라는 크롬 확장 프로그램인데요. 크롬 브라우저에서 해당 프로그램을 추가하고 인스타그램을 켜면 PC에서 업로드 된 게시물의 사진이나 영상을 다운로드 받을 수 있답니다. <br>
 
 **다운로드 받은 게시물은 갠소 용으로 간직하고, 저작권을 꼭 지켜주세요!** <br>
 
-[> Download for Instagram](https://instablank.com) <br><br>
+[> Instagram Downloader](https://chrome.google.com/webstore/detail/instagram-downloader/cpgaheeihidjmolbakklolchdplenjai) <br><br>
 
 ---
 
