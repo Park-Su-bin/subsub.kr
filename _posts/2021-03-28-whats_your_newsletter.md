@@ -6,7 +6,7 @@ date: 2021-03-28 23:30:00 +09:00
 feature: '/img/posts/08/post_07_thumbnail.jpg'
 background: '/img/posts/08/post_07_bg.jpg'
 categories:
-  - how
+  - think
 tags:
   - MZ세대
   - 뉴스레터
